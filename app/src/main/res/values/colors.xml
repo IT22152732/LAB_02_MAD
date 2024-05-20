@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="layout_color">#F0DDA5</color>
+
+    <color name="next1">#000000</color>
+    <color name="text_2">#000000</color>
+    <color name="next2">#000000</color>
+
+    <color name="textView4">#41024C</color>
+    <color name="textView5">#41024C</color>
+    <color name="getstarted">#FFFFFF</color>
+
+    <color name="welcome">#392B02</color>
+    <color name="login_btn">#F3CA53</color>
+    <color name="register_btn">#F3CA53</color>
+    <color name="login">#000000</color>
+    <color name="register">#000000</color>
+
+    <color name="registerView">#000000</color>
+    <color name="hint">#B6B5B5</color>
+    <color name="registerbtn">#F0DDA5</color>
+    <color name="registerbtntxt">#196C03</color>
+    <color name="textView9">#000000</color>
+    <color name="loginbtntxt">#DC0606</color>
+    <color name="loginR">#F0DDA5</color>
+
+    <color name="Loginpage">#000000</color>
+    <color name="loginbtn">#F0DDA5</color>
+    <color name="login_btntxt">#196C03</color>
+    <color name="register_btntxt">#DC0606</color>
+    <color name="fogotten">#F0DDA5</color>
+    <color name="fogottentxt">#000000</color>
+    <color name="textView8">#000000</color>
+    <color name="password_change">#000000</color>
+    <color name="sendOTPbtn">#F0DDA5</color>
+    <color name="verifyPbtn">#038C09</color>
+    <color name="resendbtn">#F0DDA5</color>
+    <color name="sendOTPtxt">#038C09</color>
+    <color name="resendtxt">#B30404</color>
+
+    <color name="menuu">#000000</color>
+    <color name="searchbtn">#FFFFFF</color>
+    <color name="all_btn">#F0DDA5</color>
+    <color name="dog_btn">#F0DDA5</color>
+    <color name="cat_btn">#F0DDA5</color>
+    <color name="all_txt">#000000</color>
+    <color name="dog_txt">#000000</color>
+    <color name="cat_txt">#000000</color>
+    <color name="t1">#000000</color>
+    <color name="t2">#03E00C</color>
+    <color name="t3">#000000</color>
+    <color name="bottom">#ECC54C</color>
+
+    <color name="back1">#000000</color>
+    <color name="back1_btn">#F0DDA5</color>
+    <color name="dog_foodies">#000000</color>
+
+    <color name="back2">#000000</color>
+    <color name="back2_btn">#F0DDA5</color>
+    <color name="cat_foodies">#000000</color>
+    <color name="footer">#EAC968</color>
+
+    <color name="textView11">#000000</color>
+    <color name="textView12">#000000</color>
+    <color name="textView13">#000000</color>
+    <color name="button2">#000000</color>
+    <color name="button3">#000000</color>
+    <color name="button4">#000000</color>
+    <color name="check">#E30404</color>
+    <color name="chechtxt">#FFFFFF</color>
+    <color name="backtobtn">#F0DDA5</color>
+    <color name="backto">#000000</color>
+
+    <color name="pro1">#000000</color>
+    <color name="lo1">#F0DDA5</color>
+    <color name="lo1txt">#000000</color>
+    <color name="details">#000000</color>
+    <color name="update">#FFFFFF</color>
+    <color name="delete">#FFFFFF</color>
+    <color name="updatebtn">#04C10C</color>
+    <color name="deletebtn">#B10101</color>
+
+    <color name="con">#b3b1ad</color>
+    <color name="warning">#000000</color>
+    <color name="yes">#000000</color>
+    <color name="no">#000000</color>
+    <color name="yesbtn">#049F0B</color>
+    <color name="nobtn">#AE0505</color>
+
+    <color name="topic">#000000</color>
+    <color name="card">#FFFFFF</color>
+    <color name="textView17">#000000</color>
+    <color name="textView18">#F0DDA5</color>
+    <color name="textView19">#F0DDA5</color>
+    <color name="textView22">#000000</color>
+    <color name="textView23">#000000</color>
+    <color name="Confirmtxt">#FFFFFF</color>
+    <color name="Confirmbtn">#AC0303</color>
+
+    <color name="textView10">#000000</color>
+    <color name="go">#000000</color>
+    <color name="gobtn">#FFFFFF</color>
+
+    <color name="t20">#000000</color>
+
+
+
+</resources>

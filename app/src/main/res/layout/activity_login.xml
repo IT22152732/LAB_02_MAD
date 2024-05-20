@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/Login"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/download_overlay__2_"
+    tools:context=".Login">
+
+    <TextView
+        android:id="@+id/Loginpage"
+        android:layout_width="96dp"
+        android:layout_height="58dp"
+        android:layout_marginStart="158dp"
+        android:layout_marginTop="79dp"
+        android:layout_marginEnd="158dp"
+        android:fontFamily="@font/abril_fatface"
+        android:text="@string/Loginpage"
+        android:textColor="@color/Loginpage"
+        android:textSize="34sp"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent" />
+
+    <EditText
+        android:id="@+id/usernameL"
+        android:layout_width="259dp"
+        android:layout_height="47dp"
+        android:layout_marginTop="47dp"
+        android:ems="10"
+        android:hint="@string/usernameL"
+        android:inputType="text"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/Loginpage" />
+
+    <EditText
+        android:id="@+id/passwordL"
+        android:layout_width="259dp"
+        android:layout_height="47dp"
+        android:ems="10"
+        android:hint="@string/passwordL"
+        android:inputType="text"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="@+id/usernameL"
+        app:layout_constraintHorizontal_bias="0.497"
+        app:layout_constraintStart_toStartOf="@+id/usernameL"
+        app:layout_constraintTop_toBottomOf="@+id/usernameL"
+        app:layout_constraintVertical_bias="0.142" />
+
+    <Button
+        android:id="@+id/loginbtn"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="161dp"
+        android:layout_marginTop="37dp"
+        android:layout_marginEnd="161dp"
+        android:backgroundTint="@color/loginbtn"
+        android:text="@string/loginbtn"
+        android:textColor="@color/login_btntxt"
+        android:textSize="27sp"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/passwordL" />
+
+    <Button
+        android:id="@+id/registerL"
+        android:layout_width="137dp"
+        android:layout_height="48dp"
+        android:backgroundTint="@color/loginbtn"
+        android:text="@string/registerL"
+        android:textColor="@color/register_btntxt"
+        android:textSize="18sp"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintStart_toEndOf="@+id/textView8"
+        app:layout_constraintTop_toBottomOf="@+id/fogotten"
+        app:layout_constraintVertical_bias="0.233" />
+
+    <Button
+        android:id="@+id/fogotten"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="223dp"
+        android:layout_marginTop="16dp"
+        android:layout_marginEnd="7dp"
+        android:backgroundTint="@color/fogotten"
+        android:text="@string/fogotten"
+        android:textColor="@color/fogottentxt"
+        android:textSize="14sp"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/loginbtn" />
+
+    <TextView
+        android:id="@+id/textView8"
+        android:layout_width="171dp"
+        android:layout_height="35dp"
+        android:layout_marginStart="76dp"
+        android:layout_marginTop="56dp"
+        android:text="@string/textView8"
+        android:textColor="@color/textView8"
+        android:textSize="14sp"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/fogotten" />
+</androidx.constraintlayout.widget.ConstraintLayout>

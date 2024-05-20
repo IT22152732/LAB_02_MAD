@@ -1,0 +1,122 @@
+<resources>
+    <string name="app_name" translatable="false">LabExam02</string>
+
+    <string name="next1" translatable="false">NEXT</string>
+    <string name="textView" translatable="false">"Tailored Treats, Straight to Your Pet Plate"</string>
+
+    <string name="textView2" translatable="false">"Greetings from PET PLATE, purchase your</string>
+    <string name="textView3" translatable="false">pet’s favorite yummy"</string>
+    <string name="next2" translatable="false">NEXT</string>
+
+    <string name="textView4" translatable="false">Make happy</string>
+    <string name="textView5" translatable="false">your pet</string>
+    <string name="getstarted" translatable="false">Get started >></string>
+
+    <string name="welcome" translatable="false">Welcome</string>
+    <string name="login_btn" translatable="false">Login</string>
+    <string name="register_btn" translatable="false">Register</string>
+
+    <string name="textView7" translatable="false">Register</string>
+    <string name="usernameR" translatable="false">Enter username</string>
+    <string name="passwordR" translatable="false">Enter password</string>
+    <string name="emailR" translatable="false">Enter E-mail address</string>
+    <string name="registerbtn" translatable="false">Register</string>
+    <string name="textView9" translatable="false">A already have an account ?</string>
+    <string name="loginR" translatable="false">Login</string>
+
+    <string name="Loginpage" translatable="false">Login</string>
+    <string name="usernameL" translatable="false">Username</string>
+    <string name="passwordL" translatable="false">Password</string>
+    <string name="loginbtn" translatable="false">Login</string>
+    <string name="fogotten" translatable="false">Fogotten password ?</string>
+    <string name="textView8" translatable="false">Do not have an account ?</string>
+    <string name="registerL" translatable="false">Register</string>
+
+    <string name="password_change" translatable="false">Password change</string>
+    <string name="newpwd" translatable="false">New password</string>
+    <string name="conpwd" translatable="false">Confirm password</string>
+    <string name="mobileno" translatable="false">Enter your mobile number</string>
+    <string name="sendOTP" translatable="false">Send OTP</string>
+    <string name="no1" translatable="false">1</string>
+    <string name="no2" translatable="false">2</string>
+    <string name="no3" translatable="false">3</string>
+    <string name="no4" translatable="false">4</string>
+    <string name="verify" translatable="false">Verify</string>
+    <string name="resend" translatable="false">Resend OTP</string>
+
+
+    <string name="menuu" translatable="false">Menu</string>
+    <string name="search" translatable="false">Search here</string>
+    <string name="all" translatable="false">All</string>
+    <string name="dog" translatable="false">Dog</string>
+    <string name="cat" translatable="false">Cat</string>
+    <string name="t1" translatable="false">Delivery</string>
+    <string name="t2" translatable="false">FREE</string>
+    <string name="t3" translatable="false">On minimum spend of $15</string>
+
+    <string name="backd" translatable="false">Back</string>
+    <string name="dog_foodies" translatable="false">Dog foodies</string>
+
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment" translatable="false">Hello blank fragment</string>
+
+    <string name="textView11" translatable="false">$ 41.99</string>
+    <string name="textView12" translatable="false">$ 20.99</string>
+    <string name="textView13" translatable="false">$ 36.99</string>
+    <string name="textView14" translatable="false">- 0 +</string>
+    <string name="textView15" translatable="false">- 1 +</string>
+    <string name="textView16" translatable="false">- 0 +</string>
+    <string name="button2" translatable="false">Add to cart</string>
+    <string name="button3" translatable="false">Add to cart</string>
+    <string name="button4" translatable="false">Add to cart</string>
+
+    <string name="backc" translatable="false">Back</string>
+    <string name="cat_foodies" translatable="false">Cat foodies</string>
+    <string name="button2c" translatable="false">Add to cart</string>
+    <string name="button3c" translatable="false">Add to cart</string>
+    <string name="button4c" translatable="false">Add to cart</string>
+
+    <string name="backa" translatable="false">Back</string>
+    <string name="all_foodies" translatable="false">All foodies</string>
+    <string name="button2a" translatable="false">Add to cart</string>
+    <string name="button3a" translatable="false">Add to cart</string>
+    <string name="button4a" translatable="false">Add to cart</string>
+
+    <string name="cartname" translatable="false">Cart</string>
+    <string name="name1" translatable="false">Total order cost:  $20.99</string>
+    <string name="name2" translatable="false">Delivery fee:  FREE</string>
+    <string name="name3" translatable="false">Total:   $20.99</string>
+    <string name="check" translatable="false">Checkout</string>
+    <string name="backto" translatable="false">Back to menu</string>
+
+    <string name="pro1" translatable="false">Profile</string>
+    <string name="lo1" translatable="false">Log out</string>
+    <string name="username" translatable="false">john001</string>
+    <string name="email" translatable="false">john001@gmai.com</string>
+    <string name="password" translatable="false">........</string>
+    <string name="update" translatable="false">UPDATE ACCOUNT</string>
+    <string name="delete" translatable="false">DELETE ACCOUNT</string>
+    <string name="warning" translatable="false">Are You Sure You want To Delete Your Account?</string>
+    <string name="yes" translatable="false">YES</string>
+    <string name="no" translatable="false">NO</string>
+
+    <string name="topic" translatable="false">Order confirmation</string>
+    <string name="fill1" translatable="false">Enter your name</string>
+    <string name="fill2" translatable="false">Enter your mobile number</string>
+    <string name="fill3" translatable="false">Enter your delivery address</string>
+    <string name="textView17" translatable="false">Debit card information</string>
+    <string name="textView18" translatable="false">Enter 16 card digits</string>
+    <string name="textView19" translatable="false">MM/YY</string>
+    <string name="textView22" translatable="false">Order total :</string>
+    <string name="textView23" translatable="false">$ 20.99</string>
+    <string name="Confirm" translatable="false">Confirm</string>
+
+    <string name="textView10" translatable="false">Payment Confirmed</string>
+    <string name="go" translatable="false">Go back to menu</string>
+
+    <string name="textView20" translatable="false">Cart</string>
+    <string name="textView21" translatable="false">Menu</string>
+
+
+</resources>
